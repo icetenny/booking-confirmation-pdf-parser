@@ -1,0 +1,40 @@
+{
+  "normal": {
+    "TO": ["to", "message to"],
+    "MESSAGE_FROM": ["from", "message from"],
+    "ATTENTION": ["attention"],
+    "CC": ["cc"],
+    "REFERENCE": ["reference", "ref"],
+    "DATE": ["date"],
+    "NO_OF_PAGE": ["no of page", "no of pages"],
+    "SHIPPER_LOAD": ["shipper load", "shipper loader"],
+    "CUSTOMER_REFERENCE": ["customer reference", "customer ref"],
+    "CONSIGNEE": ["consignee"],
+    "FEEDER": ["feeder"],
+    "VESSEL": ["vessel"],
+    "VOLUME": ["volume", "vol"],
+    "DEPARTURE_FROM": ["departure from"],
+    "ETD": ["etd"],
+    "DESTINATION": ["destination"],
+    "ETA": ["eta"],
+    "TRANSHIP": ["tranship", "tranship at"],
+    "CY_DATE": ["cy date"],
+    "CY_AT": ["cy at"],
+    "LOADING_DATE": ["loading date"],
+    "LOADING_AT": ["loading at"],
+    "RETURN_DATE": ["return date"],
+    "RETURN_AT": ["return at"],
+    "CLOSING_TIME": ["closing time"],
+    "VGM_CUT_OFF": ["vgm cut off"],
+    "SI_CUT_OFF": ["si cut off"],
+    "MDGF_CUT_OFF": ["mdgf cut off"],
+    "BOOKING_NO": ["booking no", "booking number"],
+    "B/L_NO": ["bl no", "b/l no", "bl number", "b/l number"],
+    "CARRIER": ["carrier", "carrier no", "carrier number"],
+    "REMARK": ["remark", "remarks"]
+  },
+  "table": {
+    "PRODUCT_NAME": ["product name", "product"],
+    "CLASSIFICATION": ["classification"]
+  }
+}
